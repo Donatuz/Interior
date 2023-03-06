@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.808);
+}
+
+h1 {
+    margin-top: 20px;
+    border: solid 1px;
+    margin-left: 30px;
+    font-size: large;
+   padding: 5px;
+}
+
+.dev-challenge h5 {
+    color: white;
+   margin-left: -500px;
+}
+h2 {
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+.full-service {
+    font-size: 20px;
+    padding-top: 20px;    
+}
+
+
+.container {
+    height: 40rem;
+    color: white;
+
+}
+
+.header {
+    display: flex;
+    cursor: pointer;
+}
+
+
+.nav-menu{
+    display: flex;  
+    align-items: center;
+  
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;  
+}
+ul {
+    justify-content: flex-end;
+    margin-left: 700px;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    text-align: end;
+    padding: 1rem;
+    list-style: none;
+    
+     
+}
+
+a[href] {
+    color:white;
+    text-decoration: none;
+    align-items: center;
+    padding: 8px;
+    justify-content: center;
+    text-align: center;
+   
+    }
+
+    a[href]:hover {
+        border: solid 2px white;
+    }
+
+
+li:hover {
+     
+      border-bottom: solid 2px white;
+      transform-origin: 4ms;
+     
+    }
+    
+
+ 
+
+
+.hero-section{
+    display: flex;
+    margin-top: 30px;
+    display: inline;
+    
+}
+
+.heading  { 
+    margin-top: 10rem;
+    margin-left: 100px;
+}
+
+
+.hero-section img{
+    width: 32rem;
+    height: 27rem;
+    margin-left: 710px;
+    margin-top: -280px;
+}
+
+
+
+.footer-section {
+    color: white;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 870px;
+}
+
+.footer {
+
+    position: absolute;
+    background-color: black;
+    width: 260px;
+    height: 140px;
+    margin-top: -15rem;
+    margin-left: 10px;
+
+}
+
+.footer-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-img {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    display: flex; 
+    flex-direction: row;
+ 
+}
+
+.btn {
+    width: 10rem;
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+
+.btn {
+   
+    position: absolute;
+}
+
+
+
+
+.footer-section {
+    position: absolute;
+}
+.footer {
+    margin-bottom: -40px;
+}
+
+.footer-section img {
+    width: 58px;
+    height: 52px;
+    border-radius: 1000px;
+    margin: 20px 20px;
+    
+}
+.webber {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 80px;
+    
+}
+
+.ali{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: -60px;
+}
+
+
+
